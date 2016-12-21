@@ -1,0 +1,9 @@
+[submodule "universal-bluetooth-ios"]
+	path = universal-bluetooth-ios
+	url = https://github.com/laugga/universal-bluetooth-ios.git
+[submodule "universal-bluetooth-macos"]
+	path = universal-bluetooth-macos
+	url = https://github.com/laugga/universal-bluetooth-macos.git
+[submodule "universal-bluetooth-arduino"]
+	path = universal-bluetooth-arduino
+	url = https://github.com/laugga/universal-bluetooth-arduino.git
